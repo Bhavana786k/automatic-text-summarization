@@ -1,0 +1,6 @@
+streamlit
+cohere
+PyPDF2
+pdfplumber
+python-docx
+reportlab
